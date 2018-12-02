@@ -1,0 +1,27 @@
+body {
+	font-size: 14px;
+	line-height: 34px;
+	color: #0c4f23;
+}
+* {
+	box-sizing: border-box;
+}
+
+/* main section */
+.main-section{
+    background-color: #0c4f23;
+    color: #fff;
+    opacity: 0.7;
+}
+
+button{
+	background-color: orange;
+	width: 20%;
+	height: 20px;
+	opacity: 1 !important;
+	margin-top: 30px;
+}
+
+
+
+
